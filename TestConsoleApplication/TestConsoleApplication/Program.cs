@@ -11,7 +11,8 @@ namespace TestConsoleApplication
         {
             return a + b;
         }
-        public int Sub(int a,int b)
+
+        public int Sub(int a, int b)
         {
             return a - b;
         }
@@ -21,7 +22,11 @@ namespace TestConsoleApplication
     {
         static void Main(string[] args)
         {
-            
+            Math math = new Math();
+            int a = 100;
+            int b = 50;
+            Console.WriteLine("Add: " + math.Add(a, b));
+            Console.WriteLine("Sub: " + math.Sub(a, b));
         }
     }
 }
