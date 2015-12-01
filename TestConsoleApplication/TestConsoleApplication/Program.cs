@@ -11,6 +11,10 @@ namespace TestConsoleApplication
         {
             Console.WriteLine("Roman is Crazy.");
         }
+        public void Say(string text)
+        {
+            Console.WriteLine("Roman say: " + text );
+        }
     }
     class Math
     {
@@ -42,6 +46,7 @@ namespace TestConsoleApplication
 
             Roman r = new Roman(); // test
             r.Crazy();
+            r.Say("test");
         }
     }
 }
