@@ -5,6 +5,13 @@ using System.Text;
 
 namespace TestConsoleApplication
 {
+    class Roman
+    {
+        public void Crazy()
+        {
+            Console.WriteLine("Roman is Crazy.");
+        }
+    }
     class Math
     {
         public int Add(int a, int b)
@@ -21,7 +28,8 @@ namespace TestConsoleApplication
     {
         static void Main(string[] args)
         {
-            
+            Roman r = new Roman();
+            r.Crazy();
         }
     }
 }
