@@ -15,6 +15,10 @@ namespace TestConsoleApplication
         {
             Console.WriteLine("Roman say: " + text );
         }
+        public void Tell()
+        {
+
+        }
     }
     class Math
     {
