@@ -40,7 +40,7 @@ namespace TestConsoleApplication
             Console.WriteLine("Add: " + math.Add(a, b));
             Console.WriteLine("Sub: " + math.Sub(a, b));
 
-            Roman r = new Roman();
+            Roman r = new Roman(); // test
             r.Crazy();
         }
     }
