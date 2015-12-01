@@ -1,0 +1,5 @@
+D:\Test\Console\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+D:\Test\Console\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+D:\Test\Console\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Test\Console\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+D:\Test\Console\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
