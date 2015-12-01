@@ -23,6 +23,11 @@ namespace TestConsoleApplication
         {
             return a - b;
         }
+
+        public int Del(int a, int b)
+        {
+            return a / b;
+        }
     }
 
     class Program
