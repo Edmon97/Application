@@ -11,12 +11,17 @@ namespace TestConsoleApplication
         {
             return a + b;
         }
+        public int Sub(int a,int b)
+        {
+            return a - b;
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
